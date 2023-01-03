@@ -1,0 +1,28 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script/镜中之人03.rpy", line 239, in script
+    if count_lin = 2 :
+SyntaxError: invalid syntax (game/script/镜中之人03.rpy, line 239)
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script/镜中之人03.rpy", line 239, in script
+    if count_lin = 2 :
+  File "F:\Program Files (x86)\Renpy\renpy-7.4.11-sdk\renpy\ast.py", line 2115, in execute
+    if renpy.python.py_eval(condition):
+  File "F:\Program Files (x86)\Renpy\renpy-7.4.11-sdk\renpy\python.py", line 1090, in py_eval
+    code = py_compile(code, 'eval')
+  File "F:\Program Files (x86)\Renpy\renpy-7.4.11-sdk\renpy\python.py", line 1027, in py_compile
+    raise e
+  File "F:\Program Files (x86)\Renpy\renpy-7.4.11-sdk\renpy\python.py", line 979, in py_compile
+    raise orig_e
+  File "F:\Program Files (x86)\Renpy\renpy-7.4.11-sdk\renpy\python.py", line 972, in py_compile
+    tree = compile(source, filename, py_mode, ast.PyCF_ONLY_AST | flags, 1)
+SyntaxError: invalid syntax (game/script/镜中之人03.rpy, line 239)
+
+Windows-10-10.0.19041 AMD64
+Ren'Py 8.0.3.22090809
+龙门轶事 0.1
+Mon Jan  2 16:43:36 2023

@@ -1,0 +1,385 @@
+SourceHanSansLite.ttf
+gui.rpy
+gui.rpyc
+options.rpy
+options.rpyc
+screens.rpy
+screens.rpyc
+script.rpy
+script.rpyc
+assets\music\Daybreak.mp3
+assets\music\amazing.ogg
+assets\music\anotherday.mp3
+assets\music\anthem.ogg
+assets\music\bad.ogg
+assets\music\banjo.ogg
+assets\music\bar.ogg
+assets\music\barkbarkbark.ogg
+assets\music\bigsky.mp3
+assets\music\chill.ogg
+assets\music\contemplate.ogg
+assets\music\cool.ogg
+assets\music\cute.ogg
+assets\music\doom.ogg
+assets\music\drama.mp3
+assets\music\endofdays.mp3
+assets\music\extrasad.ogg
+assets\music\farandwide.mp3
+assets\music\farm.ogg
+assets\music\fight.ogg
+assets\music\forest.ogg
+assets\music\fresh.ogg
+assets\music\fuyu.mp3
+assets\music\gentleplan.ogg
+assets\music\homecoming.mp3
+assets\music\ice.ogg
+assets\music\morning.ogg
+assets\music\night.mp3
+assets\music\night2.mp3
+assets\music\outrigger.mp3
+assets\music\peppa.ogg
+assets\music\plain.ogg
+assets\music\rain.mp3
+assets\music\realize.ogg
+assets\music\robocop.ogg
+assets\music\rpg.ogg
+assets\music\sad.ogg
+assets\music\sadepic.ogg
+assets\music\softly.ogg
+assets\music\spook.ogg
+assets\music\synth.ogg
+assets\music\synthia.ogg
+assets\music\victory.ogg
+assets\sfx\AlbumArtSmall.jpg
+assets\sfx\Folder.jpg
+assets\sfx\bang.mp3
+assets\sfx\breeze.mp3
+assets\sfx\carcrash.mp3
+assets\sfx\close.mp3
+assets\sfx\crashpro.ogg
+assets\sfx\door.mp3
+assets\sfx\door2.mp3
+assets\sfx\doorclose.mp3
+assets\sfx\doorlock.mp3
+assets\sfx\drawer.mp3
+assets\sfx\heartbeat.ogg
+assets\sfx\heartbeat2.mp3
+assets\sfx\heartfast.mp3
+assets\sfx\keyboard.mp3
+assets\sfx\knock.ogg
+assets\sfx\open.mp3
+assets\sfx\open2.mp3
+assets\sfx\rev.mp3
+assets\sfx\slap.mp3
+assets\sfx\snowball.mp3
+assets\sfx\splash.mp3
+assets\sfx\static.mp3
+assets\sfx\storm.mp3
+assets\sfx\vacuum.mp3
+assets\sfx\windy.mp3
+cache\bytecode.rpyb
+cache\py3analysis.rpyb
+cache\screens.rpyb
+cache\shaders.txt
+gui\frame.png
+gui\game_menu.png
+gui\main_menu.png
+gui\namebox.png
+gui\notify.png
+gui\nvl.png
+gui\skip.png
+gui\textbox.png
+gui\window_icon.png
+gui\bar\bottom.png
+gui\bar\left.png
+gui\bar\right.png
+gui\bar\top.png
+gui\button\check_foreground.png
+gui\button\check_selected_foreground.png
+gui\button\choice_hover_background.png
+gui\button\choice_idle_background.png
+gui\button\hover_background.png
+gui\button\idle_background.png
+gui\button\quick_hover_background.png
+gui\button\quick_idle_background.png
+gui\button\radio_foreground.png
+gui\button\radio_selected_foreground.png
+gui\button\slot_hover_background.png
+gui\button\slot_idle_background.png
+gui\overlay\confirm.png
+gui\overlay\game_menu.png
+gui\overlay\main_menu.png
+gui\phone\nvl.png
+gui\phone\textbox.png
+gui\phone\bar\bottom.png
+gui\phone\bar\left.png
+gui\phone\bar\right.png
+gui\phone\bar\top.png
+gui\phone\button\check_foreground.png
+gui\phone\button\check_selected_foreground.png
+gui\phone\button\choice_hover_background.png
+gui\phone\button\choice_idle_background.png
+gui\phone\button\hover_background.png
+gui\phone\button\idle_background.png
+gui\phone\button\radio_foreground.png
+gui\phone\button\radio_selected_foreground.png
+gui\phone\button\slot_hover_background.png
+gui\phone\button\slot_idle_background.png
+gui\phone\overlay\game_menu.png
+gui\phone\overlay\main_menu.png
+gui\phone\scrollbar\horizontal_hover_bar.png
+gui\phone\scrollbar\horizontal_hover_thumb.png
+gui\phone\scrollbar\horizontal_idle_bar.png
+gui\phone\scrollbar\horizontal_idle_thumb.png
+gui\phone\scrollbar\vertical_hover_bar.png
+gui\phone\scrollbar\vertical_hover_thumb.png
+gui\phone\scrollbar\vertical_idle_bar.png
+gui\phone\scrollbar\vertical_idle_thumb.png
+gui\phone\slider\horizontal_hover_bar.png
+gui\phone\slider\horizontal_hover_thumb.png
+gui\phone\slider\horizontal_idle_bar.png
+gui\phone\slider\horizontal_idle_thumb.png
+gui\phone\slider\vertical_hover_bar.png
+gui\phone\slider\vertical_hover_thumb.png
+gui\phone\slider\vertical_idle_bar.png
+gui\phone\slider\vertical_idle_thumb.png
+gui\scrollbar\horizontal_hover_bar.png
+gui\scrollbar\horizontal_hover_thumb.png
+gui\scrollbar\horizontal_idle_bar.png
+gui\scrollbar\horizontal_idle_thumb.png
+gui\scrollbar\vertical_hover_bar.png
+gui\scrollbar\vertical_hover_thumb.png
+gui\scrollbar\vertical_idle_bar.png
+gui\scrollbar\vertical_idle_thumb.png
+gui\slider\horizontal_hover_bar.png
+gui\slider\horizontal_hover_thumb.png
+gui\slider\horizontal_idle_bar.png
+gui\slider\horizontal_idle_thumb.png
+gui\slider\vertical_hover_bar.png
+gui\slider\vertical_hover_thumb.png
+gui\slider\vertical_idle_bar.png
+gui\slider\vertical_idle_thumb.png
+images\window_icon.psd
+images\human\5ea0b515f2f3e1bdb70c998a522b09f543a5285f.png@942w_942h_progressive.png
+images\human\Avg_avg_npc_034.png
+images\human\Avg_avg_npc_034_10.png
+images\human\Avg_avg_npc_036.png
+images\human\Avg_avg_npc_040.png
+images\human\Avg_avg_npc_041.png
+images\human\Avg_avg_npc_196_1-2.png
+images\human\Avg_avg_npc_196_1-4.png
+images\human\Avg_avg_npc_196_1-6.png
+images\human\Avg_char_2005_weiyw_1.png
+images\human\Avg_char_2005_weiyw_2.png
+images\human\Avg_char_2006_fmzuki_1.png
+images\human\amiya.png
+images\human\amiya1.png
+images\human\doc.png
+images\human\doctor.png
+images\human\taihou.png
+images\human\立绘_星熊_1.png
+images\human\立绘_星熊_skin1.png
+images\human\立绘_濯尘芙蓉_1.png
+images\human\立绘_诗怀雅_1.png
+images\human\立绘_诗怀雅_skin1.png
+images\human\立绘_陈_1.png
+images\human\立绘_陈_2.png
+images\human\林\00045-2538052271-masterpiece, best quality,black shorthair,black windbreaker and blue stripes,black eyes,symbol-shaped pupils,upper body,.png
+images\human\林\00054-1116886094-masterpiece, best quality,black eyes,symbol-shaped pupils,upper body,.png
+images\human\林\00058-1116886098-masterpiece, best quality,black eyes,symbol-shaped pupils,upper body,.png
+images\human\林\same eyes,a boy, s-5.png
+images\human\林\images\same eyes, s-0.png
+images\human\林\images\same eyes, s-1.png
+images\human\林\images\same eyes, s-2.png
+images\human\林\images\same eyes, s-4.png
+images\human\林\images\same eyes, s-5.png
+images\human\林\images\same eyes, s-6.png
+images\human\林\images\same eyes, s-7.png
+images\human\林\images\same eyes, s-8.png
+images\human\林\images\same eyes, s-9.png
+images\human\林\images\same eyes,a boy, s-0.png
+images\human\林\images\same eyes,a boy, s-1.png
+images\human\林\images\same eyes,a boy, s-2.png
+images\human\林\images\same eyes,a boy, s-3.png
+images\human\林\images\same eyes,a boy, s-4.png
+images\human\林\images\same eyes,a boy, s-6.png
+images\human\林\images\same eyes,a boy, s-7.png
+images\human\林\images\same eyes,a boy, s-8.png
+images\human\林\images\same eyes,a boy, s-9.png
+images\human\蝶\0d4c54388a67e03b3a13c0df5e08188ab03df5ba.png@942w_942h_progressive.png
+images\human\蝶\a girl,black skirt dress, flower pattern in dress,black gown, s-1574786863.png
+images\human\蝶\a girl,black skirt dress, flower pattern in dress,black gown, s-1574786869.png
+images\human\蝶\combat suit, magical girl,  s-3600915746.png
+images\human\蝶\combat suit, magical girl,  s-3600915748.png
+images\human\蝶\grey long hair, {hand_to_mouth},best quality,highly detailed,masterpiece,ultra-detailed,illustration，bandage over one eye, s-1544026964.png
+images\human\蝶\grey long hair, {hand_to_mouth},best quality,highly detailed,masterpiece,ultra-detailed,illustration，bandage over one eye, s-1544026971.png
+images\human\蝶\缄默.png
+images\human\蝶\蝶.png
+images\screen\08c7de2d6cbff95dcd9951aaeffbc51c3907048a.png@942w_531h_progressive.png
+images\screen\0b367c0a5b3ec307fb4905f903c0c8f8ffba89ba.png@942w_531h_progressive.png
+images\screen\165bb630745f53ebf95663f6cba23a431d509bd1.jpg@942w_531h_progressive.png
+images\screen\16ad720e066805988d4c278e03d8c67d05a85b78.jpg@942w_531h_progressive.png
+images\screen\195268fbeb1045ab7d1a036bfbf8059111db6117.png@942w_531h_progressive.png
+images\screen\1a7f939caddfc3e42fbc8b52f20c0eb9447461ba.jpg@942w_531h_progressive.png
+images\screen\1b5dddead04309cca1bed1ad0f4a545f38bdb816.png@942w_531h_progressive.png
+images\screen\1dbf5a903752237aab1ddc62b9f61d99fe305d37.png@942w_531h_progressive.png
+images\screen\1f1b95331b41ad9c61af2c700890aa86facf9a7f.jpg@942w_531h_progressive.png
+images\screen\1fbb2abddc2e3cf7ee9340568bc2acebf243a42e.png@942w_531h_progressive.png
+images\screen\2825caed7bd61a5605ad215a8ad0e38a6cd50133.jpg@942w_531h_progressive.png
+images\screen\2b22efd9d5c8ee99413541e5f5eb162c0b481794.jpg@942w_531h_progressive.png
+images\screen\30ccea60e448881154d9efaa1cf9ab69ab4f8b9b.png@942w_531h_progressive.png
+images\screen\3358f6f3471c9f2affbef3d58577eb4bc419ae2d.jpg@942w_531h_progressive.png
+images\screen\460075241d460fb12bfd306d11bf5345ff274c7a.jpg@942w_531h_progressive.png
+images\screen\4913dd5c2bd9c77f2a3376524a8915157ca0a5cb.jpg@942w_531h_progressive.png
+images\screen\5488d99063d7f850b222953c13ac80792fe7294a.jpg@942w_531h_progressive.png
+images\screen\5ecc47bf48ccd1c5e205e9cf621dbc2aa7b13556.jpg@942w_531h_progressive.png
+images\screen\5fb117f6821addf95f1113b14ae624dcfc8865b4.jpg@942w_531h_progressive.png
+images\screen\609c2ed489a1e6c6ff6b04e76b14ed2c4d937948.jpg@942w_524h_progressive.png
+images\screen\6c74fccfede8940b1beea90e4bf4ffb62c6ef96d.jpg@942w_531h_progressive.png
+images\screen\708afda28edfb0c2a3b78745d58d1394.png
+images\screen\70b41f4478c8c354eef4061d20bdfed5d7737234.jpg@942w_531h_progressive.png
+images\screen\7aa23d51db62d1b5f19ff3f4b2e23d7d47207531.jpg@942w_531h_progressive.png
+images\screen\7f24eddc98eb943165cc83b20f2eda5c8152fcd5.png@942w_531h_progressive.png
+images\screen\7f7390654f2edde36cd78d0f797c64ed4a3dcf75.jpg@942w_531h_progressive.png
+images\screen\8758380bcae37259d5abc301230183e9f550c70c.png@942w_531h_progressive.png
+images\screen\8b33c56aae561a55fca539976e7590d92b847ac5.jpg@942w_531h_progressive.png
+images\screen\9141559c158138d2a1c0abae69656b29215d64fc.png@942w_531h_progressive.png
+images\screen\96b76b138edc94942e9c0490b2c91361153961f0.jpg@942w_531h_progressive.png
+images\screen\9de74d68d41b892def80c32c94b536274682c8bf.png@942w_531h_progressive.png
+images\screen\Avg_bg_bg_building_1.png
+images\screen\Avg_bg_bg_lungmen_r.png
+images\screen\Avg_bg_bg_lungmen_station.png
+images\screen\a0adb853446c7d838923d24290996b7b1f09015b.jpg@942w_531h_progressive.png
+images\screen\a594afe80ffd8b00f587e8032c53696e9f6b1022.jpg@942w_531h_progressive.png
+images\screen\a68cce1e9c0d3dda6e64c0bfba8ffce0e7c60fe8.jpg@942w_531h_progressive.png
+images\screen\a6e5ace979b4576cbc7d159263ef78734c028f4c.png@942w_531h_progressive.png
+images\screen\a990959207e2eaac0158ef597cafb61d72f2c144.png@942w_531h_progressive.png
+images\screen\b28a3c8cc5634d3de12dbe5552ef75aa59a66e0c.jpg@942w_531h_progressive.png
+images\screen\bf3fec72348bb7baa32a0d45c3d02f063ae38bfc.jpg@942w_531h_progressive.png
+images\screen\bff3566416d150c9d2b46a5c47cc4ca278d24580.jpg@942w_531h_progressive.png
+images\screen\bg room.jpg
+images\screen\c41189827a0ded0d5bf86c1dae0740aed9cca9e4.png@942w_531h_progressive.png
+images\screen\c6baaea5071d99fc3452344379a4b64b68c92d90.jpg@942w_531h_progressive.png
+images\screen\c7e2554cf7e1e6883e387cc83151b9b1b8164806.jpg@942w_531h_progressive.png
+images\screen\caa8a28903331ff52bb66471f27d2b6cadc02af9.jpg@942w_531h_progressive.png
+images\screen\cd99f5e1ab7db95e63cb898a9d1b161cdff82e6e.jpg@942w_531h_progressive.png
+images\screen\d21c7a3d516e9815c380ee17b6f616e6bc4dfb27.png@942w_531h_progressive.png
+images\screen\d3033f668e7b732f7542fb29fab9c4545cba44b2.jpg@942w_531h_progressive.png
+images\screen\d6aa6732b7833cda0b2e145b543a86cbb3fc2259.jpg@942w_531h_progressive.png
+images\screen\e0629d8f7340e867cad9da886cb9b485d82864b0.png@942w_531h_progressive.png
+images\screen\e77eb1c5bf215d0bba027c0b67f38850aeba45be.png@942w_531h_progressive.png
+images\screen\e9d5aa682040cb15f733044179ee7f536f89e39b.jpg@942w_531h_progressive.png
+images\screen\eb85cc40123f09b182393380cc80a0223ba78fbe.jpg@942w_531h_progressive.png
+images\screen\ef88f338a9aed81b705c4ec38a17e7f9f1f3e7a2.jpg@942w_531h_progressive.png
+images\screen\f6c1ac34a696e256f5e2320d44137ddff01e9154.jpg@942w_531h_progressive.png
+images\screen\images.zip
+images\screen\main.jpg
+images\screen\main.psd
+images\screen\main_menu.png.png
+images\screen\living room\00015-1146821785-masterpiece, best quality,a mese living room.png
+images\screen\living room\00016-1146821786-masterpiece, best quality,a mese living room.png
+images\screen\living room\00017-1146821787-masterpiece, best quality,a mese living room.png
+images\screen\living room\00018-1146821788-masterpiece, best quality,a mese living room.png
+images\screen\living room\00019-1146821789-masterpiece, best quality,a mese living room.png
+images\screen\living room\00020-1146821790-masterpiece, best quality,a mese living room.png
+images\screen\living room\00021-1146821791-masterpiece, best quality,a mese living room.png
+images\screen\living room\00022-1146821792-masterpiece, best quality,a mese living room.png
+images\screen\living room\00023-1146821793-masterpiece, best quality,a mese living room.png
+images\screen\living room\00024-1146821794-masterpiece, best quality,a mese living room.png
+images\screen\Long Corridor\Long Corridor， s-3819226710.png
+images\screen\Long Corridor\Long Corridor， s-3819226711.png
+images\screen\Long Corridor\Long Corridor， s-3819226712.png
+images\screen\Long Corridor\Long Corridor， s-3819226713.png
+images\screen\Long Corridor\Long Corridor， s-3819226714.png
+images\screen\Long Corridor\Long Corridor， s-3819226715.png
+images\screen\Long Corridor\Long Corridor， s-3819226716.png
+images\screen\Long Corridor\Long Corridor， s-3819226717.png
+images\screen\Long Corridor\Long Corridor， s-3819226718.png
+images\screen\Long Corridor\Long Corridor， s-3819226719.png
+images\screen\mirror world\A world made of white and mirrors， s-4095589567.png
+images\screen\mirror world\A world made of white and mirrors， s-4095589568.png
+images\screen\mirror world\A world made of white and mirrors， s-4095589569.png
+images\screen\mirror world\A world made of white and mirrors， s-4095589570.png
+images\screen\mirror world\A world made of white and mirrors， s-4095589571.png
+images\screen\mirror world\A world made of white and mirrors， s-4095589572.png
+images\screen\mirror world\A world made of white and mirrors， s-4095589573.png
+images\screen\mirror world\A world made of white and mirrors， s-4095589574.png
+images\screen\mirror world\A world made of white and mirrors， s-4095589575.png
+images\screen\mirror world\A world made of white and mirrors， s-4095589576.png
+images\screen\mirror world\A world stuffed with cluttered broken mirrors， s-2282849523.png
+images\screen\mirror world\A world stuffed with cluttered broken mirrors， s-2282849524.png
+images\screen\mirror world\A world stuffed with cluttered broken mirrors， s-2282849525.png
+images\screen\mirror world\A world stuffed with cluttered broken mirrors， s-2282849526.png
+images\screen\mirror world\A world stuffed with cluttered broken mirrors， s-2282849527.png
+images\screen\mirror world\A world stuffed with cluttered broken mirrors， s-2282849528.png
+images\screen\mirror world\A world stuffed with cluttered broken mirrors， s-2282849529.png
+images\screen\mirror world\A world stuffed with cluttered broken mirrors， s-2282849530.png
+images\screen\mirror world\A world stuffed with cluttered broken mirrors， s-2282849531.png
+images\screen\mirror world\A world stuffed with cluttered broken mirrors， s-2282849532.png
+images\screen\mirror world\world of mirror,   s-864249966.png
+images\screen\old\game_menu.png
+images\screen\old\main_menu.png
+images\screen\school\Rooftop， s-1635238645.png
+images\screen\school\Rooftop， s-1635238646.png
+images\screen\school\Rooftop， s-1635238647.png
+images\screen\school\Rooftop， s-1635238648.png
+images\screen\school\Rooftop， s-1635238649.png
+images\screen\school\Rooftop， s-1635238650.png
+images\screen\school\Rooftop， s-1635238651.png
+images\screen\school\Rooftop， s-1635238652.png
+images\screen\school\Rooftop， s-1635238653.png
+images\screen\school\Rooftop， s-1635238654.png
+images\screen\school\The endless sky， s-2218476194.png
+images\screen\school\The endless sky， s-2218476195.png
+images\screen\school\The endless sky， s-2218476196.png
+images\screen\school\The endless sky， s-2218476197.png
+images\screen\school\The endless sky， s-2218476198.png
+images\screen\school\The endless sky， s-2218476199.png
+images\screen\school\The endless sky， s-2218476200.png
+images\screen\school\The endless sky， s-2218476201.png
+images\screen\school\The endless sky， s-2218476202.png
+images\screen\school\The endless sky， s-2218476203.png
+images\screen\school\school, s-2035823317.png
+images\screen\school\school, s-2035823318.png
+images\screen\school\school, s-2035823319.png
+images\screen\school\school, s-2035823320.png
+images\screen\school\school, s-2035823321.png
+images\screen\school\school, s-2035823322.png
+images\screen\school\school, s-2035823323.png
+images\screen\school\school, s-2035823324.png
+images\screen\school\school, s-2035823325.png
+images\screen\school\school, s-2035823326.png
+images\screen\star\ocean, s-1332588146.png
+images\screen\star\ocean, s-1332588147.png
+images\screen\star\ocean, s-1332588148.png
+images\screen\star\ocean, s-1332588149.png
+images\screen\star\ocean, s-1332588150.png
+images\screen\star\ocean, s-1332588151.png
+images\screen\star\ocean, s-1332588152.png
+images\screen\star\ocean, s-1332588153.png
+images\screen\star\ocean, s-1332588154.png
+images\screen\star\ocean, s-1332588155.png
+images\screen\star\starry sky,  s-4153800649.png
+images\screen\star\starry sky,  s-4153800650.png
+images\screen\star\starry sky,  s-4153800651.png
+images\screen\star\starry sky,  s-4153800652.png
+images\screen\star\starry sky,  s-4153800653.png
+images\screen\star\starry sky,  s-4153800654.png
+images\screen\star\starry sky,  s-4153800655.png
+images\screen\star\starry sky,  s-4153800656.png
+images\screen\star\starry sky,  s-4153800657.png
+images\screen\star\starry sky,  s-4153800658.png
+images\screen\star\starry sky,clusters of stars, s-1826390726.png
+images\screen\star\starry sky,clusters of stars, s-1826390727.png
+images\screen\star\starry sky,clusters of stars, s-1826390728.png
+images\screen\star\starry sky,clusters of stars, s-1826390729.png
+images\screen\star\starry sky,clusters of stars, s-1826390730.png
+images\screen\star\starry sky,clusters of stars, s-1826390731.png
+images\screen\star\starry sky,clusters of stars, s-1826390732.png
+images\screen\star\starry sky,clusters of stars, s-1826390733.png
+images\screen\star\starry sky,clusters of stars, s-1826390734.png
+images\screen\star\starry sky,clusters of stars, s-1826390735.png
+saves\navigation.json
+saves\persistent
+tl\None\common.rpym
+tl\None\common.rpymc
