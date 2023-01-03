@@ -64,6 +64,8 @@ image jiedao = im.FactorScale("images/screen/街道.png",1.5)
 image hutong = im.FactorScale("images/screen/胡同.png",1.5)
 image zhensuo = im.FactorScale("images/screen/诊所.png",1.5)
 image zhensuoneibu = im.FactorScale("images/screen/诊所内部.png",1.5)
+image dingceng = im.FactorScale("images/screen/顶层.png",1.5)
+
 image louti = "images/screen/外置楼梯.png"
 image weiwan = im.FactorScale("images/screen/未完成.png",1.5)
 
