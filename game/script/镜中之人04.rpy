@@ -1,4 +1,6 @@
 label 镜中之人04:
+    $ gui.accent_menu_background = "gui/横置game1.png"
+    $ gui.rebuild()
     scene zhensuo with fade
     show lin at right with dissolve
     "吃过饭后，林带着人前往医所。"

@@ -1,4 +1,6 @@
 label 镜中之人03:
+    $ gui.accent_menu_background = "gui/横置game1.png"
+    $ gui.rebuild()
     scene weiwan with fade
     show die at left with dissolve 
     show jian at right with dissolve

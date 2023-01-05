@@ -1,4 +1,6 @@
 label 镜中之人05_2:
+    $ gui.accent_menu_background = "gui/横置game1.png"
+    $ gui.rebuild()
     scene zhensuoneibu with fade
     show zhong at left with dissolve
     show die with dissolve

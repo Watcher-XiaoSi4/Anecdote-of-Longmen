@@ -12,6 +12,7 @@ define w = Character("未堰",image = "wei")
 define g = Character("谷涸",image = "gu")
 define i = Character("景",image = "jing")
 define s = Character("诗怀雅",image = "shi")
+define ou = Character("人偶",image = "ou")
 define u = Character("未知")
 define a = Character("阿姨")
 

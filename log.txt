@@ -1,4 +1,4 @@
-Tue Jan  3 09:34:17 2023
+Thu Jan  5 22:00:18 2023
 Windows-10-10.0.19041
 Ren'Py 8.0.3.22090809
  
@@ -7,357 +7,35 @@ Bootstrap to the start of init.init took 0.04s
 Early init took 0.00s
 Loader init took 0.08s
 Loading error handling took 0.03s
-Loading script took 0.33s
-Loading save slot metadata. took 0.04s
+Loading script took 0.30s
+Loading save slot metadata. took 0.03s
 Loading persistent took 0.00s
-
-File "game/script/镜中之人06.rpy", line 83: multiple at clauses are prohibited.
-    show zhong at left at dissolve
-                         ^
-
-File "game/script/镜中之人06.rpy", line 316: expected ':' not found.
-    "告诉"：
-        ^
-
-File "game/script/镜中之人06.rpy", line 474: expected statement.
-    终于，声音走远。两个人这才放下心，对话的声音持续传来，林将耳朵贴在墙上，能够听得清楚屋子里的交易，告诉鬼姐后，便决定不再继续前进，两个人躲在了这间屋子里比较隐蔽的，有点狭窄的位置。
-                                                                                              ^
-
-File "game/script/镜中之人06.rpy", line 476: expected statement.
-    “你确定，这是真的吗？不会拿假的来糊弄我吧！”林听出了那是谷涸的声音，带着一份自傲：“谅你也不敢骗我，快去和你的累赘团圆去吧！。”他踹开了一扇门：“给我看好他，别让他用镜子来逃跑。”
-                                                                                               ^
-
-File "game/script/镜中之人06.rpy", line 478: expected statement.
-    “给我看看这东西是不是真的。”风扇的声音转起来，声音嘈杂起来，又过了一会儿平静下来。
-                                              ^
-
-File "game/script/镜中之人06.rpy", line 480: expected statement.
-    “是真的。”另外的一个声音给出肯定的回答。林的脸颊感受到了什么，是呼吸的温热，他的意识从失神中恍惚过来，才发现是鬼姐，也把耳朵贴在了旁边，比自己高很多的她，弯着身，让距离有些近，让他有些尴尬，有些不知所措，从下方盯着看她的面容。
-                                                                                                                      ^
-
-File "game/script/镜中之人06.rpy", line 482: expected statement.
-    绿色的长发被挽到背后，略微白色的脸颊，再往上是紧闭的嘴，与翕动的鼻子，绿褐色的眼睛平静着，头顶的正中心长出由一点黑而散开的角，是鬼族的特征，向来高大，向来给人一种抗拒与可怕，可在她的身上，并没有这样的剧烈感。她的眼球转了一下，他的视线躲闪，意识再次集中在屋子里的对话上。
-                                                                                                                                           ^
-
-File "game/script/镜中之人06.rpy", line 484: expected statement.
-    “好了，你可以离开了。”谷涸，沉默了一会说：“你要带走她吗？真是令人羡慕的爱情。”
-                                             ^
-
-File "game/script/镜中之人06.rpy", line 486: expected statement.
-    “不过，你握着她的手，真的什么都没有觉察到吗？”他的声音里带着洋洋得意：“哈哈哈！我忘了，你只是一个人偶，什么都感觉不到，真是可怜啊！”他迈出了步子，掀开了什么，撕破了什么。
-                                                                                           ^
-
-File "game/script/镜中之人06.rpy", line 488: expected statement.
-    “看，这没有血色的皮肤，这奇怪的形体，从胸口蔓延出的黑色画成了荆棘。”他继续说：“这个人真的是你想要的吗？”
-                                                          ^
-
-File "game/script/镜中之人06.rpy", line 490: expected statement.
-    “是的，我确信着，她自始至终都没有变。”他的声音打颤，陷入昏迷的她，不能看，不能听，不能语，却让手指微动。
-                                                         ^
-
-File "game/script/镜中之人06.rpy", line 492: expected statement.
-    重击，让人弯下了腰。
-              ^
-
-File "game/script/镜中之人06.rpy", line 494: expected statement.
-    “抱的真紧啊！”他继续说：“就让我告诉你这所有的一切。”他拉来椅子坐在上面：“她早就不行了，是堰那个家伙，让她吊着一口气，毕竟你对我们来说还是很有用的。”
-                                                                                 ^
-
-File "game/script/镜中之人06.rpy", line 496: expected statement.
-    “所以，她所做的一切，都只不过是堰在操纵。”他说：“她的意识早就消散，仅剩下一具躯壳，还是被更换过无数次的人偶。”
-                                                             ^
-
-File "game/script/镜中之人06.rpy", line 498: expected statement.
-    “不，我不信你。”椅子被推倒，谁踢出了一脚。
-                          ^
-
-File "game/script/镜中之人06.rpy", line 500: expected statement.
-    “你爱信不信，今天就给我死在这里吧！”谷涸的声量提高，打碎了一面镜子：“还想跑，我说什么就是什么！”
-                                                      ^
-
-File "game/script/镜中之人06.rpy", line 502: expected statement.
-    “还想保护她，还想活下去。”剑劈砍的声音不断地传来：“我给你那个权力了吗？”剑停下了挥砍。
-                                                 ^
-
-File "game/script/镜中之人06.rpy", line 504: expected statement.
-    “即使感到悲伤也不能流泪，即使受到伤害也无法流血。你早就不是人了，只是一个寄宿在物体上的怪物罢了。”他将什么踩在脚下：“唯一的手还不肯放开吗？让我给你送开吧！”关节弯折的声音，手指被强行拽下的声音，虽然不是血肉与骨的构成，却因为轻质将声音放大。
-                                                                                                                              ^
-
-File "game/script/镜中之人06.rpy", line 506: expected statement.
-    “感到疼，就说出来啊！”谷涸的声音中带着欣喜。
-                           ^
-
-File "game/script/镜中之人06.rpy", line 508: expected statement.
-    “不甘吧！恨我吧！你有什么办法呢？”他用力地剁了下脚，将什么踩碎：“没意思，绝望了吗？希望你还能将她拼好。”他停下了掰手指的动作。
-                                                                     ^
-
-File "game/script/镜中之人06.rpy", line 510: expected statement.
-    “走了！”几个人踩着碎玻璃，碎片离开。
-                       ^
-
-File "game/script/镜中之人06.rpy", line 512: expected statement.
-    “我不想这样的，我本不想这样的。”景在小声的嘀咕，吸引了众人的注意：“你在说什么胡话？”
-                                                ^
-
-File "game/script/镜中之人06.rpy", line 514: expected statement.
-    谷涸冷眼地看着他，仅存的无名指与小指松开，将镜子的小碎片露出，反着光，在众人疑惑之时，有什么被打开了，以景的掌心为中心，源石凭空地蔓延开来，一圈圈，一层层向外，几乎是在一瞬间将地面刺穿，裂纹向外延伸，塌陷了，巨大的刺长出，扼着谷涸的喉咙而去。
-                                                                                                                             ^
-
-File "game/script/镜中之人06.rpy", line 516: expected statement.
-    他不躲闪，他根本没在怕的，接触到他的源石净折破碎，散在地上，堆积在地上，又附着在他的身上，来不及逃走的人，死在这里，根本等不到大楼的塌陷，鲜血流入源石的空隙，让黑色多了几分红艳。
-                                                                                             ^
-
-File "game/script/镜中之人06.rpy", line 518: expected statement.
-    “不自量力，我等待着你的糜碎。”谷涸看着景说。
-                           ^
-
-File "game/script/镜中之人06.rpy", line 521: expected statement.
-    镜子堆叠在一起，镜子并排在一起，他在泛白的世界中，看见到自己无数的面容，孤孤的一个人站在空荡荡之中，他笑了，无数的镜子中的自己也笑起来，那并不是什么好事，因为在镜子的互相反射之中，身形变得模糊，变得扭曲，变得虚有，无限下去的自我，什么都不存在。
-                                                                                                                              ^
-
-File "game/script/镜中之人06.rpy", line 523: expected statement.
-    构成墙的镜子剥落，筑造地面的镜子抬升，谷涸在混乱之中找到向下的径，但每走下一步的他，镜子都在破碎，仿佛就是为了让他调入这般虚无，于是他坠下去，飞起来的镜子从四面八方向他裹挟而来。
-                                                                                             ^
-
-File "game/script/镜中之人06.rpy", line 525: expected statement.
-    这自杀式的袭击，是无数镜子碰到他后的破碎，碎片消失在其中，抗拒着他，逃离着他，却不能挪动他分毫，是完全的落败，近乎不败的谷涸，即使是面对如同旋风般的攻势，也依然保持着轻蔑的笑容，现在他更加确信自己的强大。
-                                                                                                          ^
-
-File "game/script/镜中之人06.rpy", line 527: expected statement.
-    一右手从镜子中伸出来，那面镜子便破碎，掉落下来，卡在一面横置的镜子上，是人偶师所制造的肢体，更多的手从镜子中伸出，更多的镜子随之破碎。谷涸落到了底，还是这个世界的意志陷入了焦灼。
-                                                                                             ^
-
-File "game/script/镜中之人06.rpy", line 529: expected statement.
-    从镜子中涌出的肢体变得更多，逐渐地要变成半个的人形，就像是外来攻击的侵入，即使是装上了名为防火墙的防护，也会因为过量的差距，而逐渐地落入下风之中，这个时候只能全部放弃，从头开始排查，但他不能，他清楚地意识到自己所对抗的是什么，同样的自己，同样的自我，怎样防得住分布式拒绝服务攻击。
-                                                                                                                                                ^
-
-File "game/script/镜中之人06.rpy", line 531: expected statement.
-    谷涸感受到了世界的排斥，他处在人偶残海，而破碎的镜子与残骸还在不断地出现与落下，镜中世界的意识同样发现了异常，逐渐变得透明的谷涸，就要脱离这个世界，他要阻止这样的事情发生，但那是根源上的原因，无法去更改，更不敢用现在的镜子去撞击，因为无法预料到任何的一扇镜子，它的背后是否会出现人偶。
-                                                                                                                                                  ^
-
-File "game/script/镜中之人06.rpy", line 533: expected statement.
-    对了，是了，残肢同样地开始化作源石，刺状生长，要将处在其中的谷涸吞没，刺穿了他的身体，就像是幻象一般，谷涸消失不见，一场华丽的演出落幕，源石在生长到极限之后破碎，却又在别的残骸上扎根生长，跳过发芽，跳过长茎，直接便是花的绽放，花粉透过仅存的镜子飘了出去，与空气融为了一体，谁也不会知道，谁也不会察觉。
-                                                                                                                                                          ^
-
-File "game/script/镜中之人06.rpy", line 535: expected statement.
-    只有，见证这一切的人，从镜子中被人偶推了出来，坐在轮椅上的人——未堰，主动地走入了空地，几面还算完整的镜子从四周飞来，对准了他，落在镜子上的最初的手臂滚下去，掉在他的怀里，他拿了起来，细细地看着，那是张开的手掌，五指松散着，他伸出手触碰，五指弯折自如，将它们一个个完全地展开，就在这样的时间的流逝之中，镜中世界恢复了原样。
-                                                                                                                                                                     ^
-
-File "game/script/镜中之人06.rpy", line 537: expected statement.
-    “景，我知道是你。”未堰把假肢放在双腿上：“虽然我并不知道到底发生了什么，但是你这样的状态无法持续吧！”没有回应，而是他无法回应，就像这个寂寥的世界，传不进来声音，传不出痛苦。
-                                                                                            ^
-
-File "game/script/镜中之人06.rpy", line 539: expected statement.
-    “哈，除了我，还有谁记得你呢，除了我，还有谁看中你呢？”未堰补充：“虽然只是利益上的看重，但是有总比没有好吧！”
-                                                            ^
-
-File "game/script/镜中之人06.rpy", line 541: expected statement.
-    “你也不想就这么慢慢地被人遗忘吧！”
-                      ^
-
-File "game/script/镜中之人06.rpy", line 543: expected statement.
-    “你也不想自己的仇恨慢慢地消失在虚无之中吧！”
-                           ^
-
-File "game/script/镜中之人06.rpy", line 545: expected statement.
-    “景，我们的目的是一样的。”未堰说：“谷涸很强大，强大到他说什么，什么就是正确的。”
-                                              ^
-
-File "game/script/镜中之人06.rpy", line 547: expected statement.
-    “但我并不需要他，一个完全不可控的风险，我何必留着他。”他终于露出了自己的真面目：“我会将他再送来这个世界的。”
-                                                            ^
-
-File "game/script/镜中之人06.rpy", line 549: expected statement.
-    “这是我为你所创造的机会，现在你应当需要一个寄宿了。”他将手臂举起来，掌心对着自己，等待着。
-                                                  ^
-
-File "game/script/镜中之人06.rpy", line 551: expected statement.
-    等待着。
-        ^
-
-File "game/script/镜中之人06.rpy", line 553: expected statement.
-    手指弯曲攥成了一个拳头。
-                ^
-
-File "game/script/镜中之人06.rpy", line 555: expected statement.
-    景，你逃不掉了。
-            ^
-
-File "game/script/镜中之人06.rpy", line 557: expected statement.
-    未堰露出了满意的笑容，指示人偶，按照原来的路线，将自己推回去，轮椅转了个弯，进入镜子中消失不见了。
-                                                     ^
-
-File "game/script/镜中之人06.rpy", line 559: expected statement.
-    镜中的世界重新排列，镜子拼接成一个正方体镶嵌正方体的结构，而在其中隐藏着什么。
-                                           ^
-
-File "game/script/镜中之人06.rpy", line 562: expected statement.
-    “走，快走，我们上到顶层。”林喊着她自己根本听不见的声音，地面的裂纹插入到两人的足迹之中，紧接着是源石的烂漫与璀璨，在墙上侵蚀出无数的透光小洞。
-                                                                            ^
-
-File "game/script/镜中之人06.rpy", line 564: expected statement.
-    敌人发现了他们，更是发现了异样，最终似乎在说着什么，但是他听不见，敌人手中的武器举起来，向着两人迎来，他当然可以轻松躲过去，可是在自己身后的鬼姐要怎样，他不能冒这个险，开了枪，打中了敌人的腿，给无知者，无惧者又一个灭亡的宣判。
-                                                                                                                     ^
-
-File "game/script/镜中之人06.rpy", line 566: expected statement.
-    闯入楼梯，裂纹将阶梯变得不稳。“鬼姐，你先过去。”他这样说，松开了手，两个人的眼神交流后，点了点头，她冲了上去，将通往天台的已经畸形的门撞开，林把握好跳跃与攀登的高度，成功地跟在了后面，他转身向后看了一眼，黑色的源石顺着墙壁找上了他，也带来了一束白光，还好鬼姐抓住了他的左手，将他拉离门口。
-                                                                                                                                                     ^
-
-File "game/script/镜中之人06.rpy", line 568: expected statement.
-    “尽最大努力越过去！”林用空闲的右手指着最近的楼说。
-                              ^
-
-File "game/script/镜中之人06.rpy", line 570: expected statement.
-    两个人收起武器，在塌陷之中先了一步，也就永远先了一步，迈过的地方，紧接着就布满了裂纹，混凝土的石灰破碎，变作了更加脆弱的源石，只有其中的钢筋还能刚刚地撑住一会儿。鬼姐先他一步跑到天台的边缘，跳了起来，被拉着的林没有将所有的力气用在跳跃上，两个人的横跨，在半空中失去了动力，在路途的一半急剧地跌落，
-                                                                                                                                                        ^
-
-File "game/script/镜中之人06.rpy", line 572: expected statement.
-    “鬼姐，相信我，我们会没事的。”林张开他的右手，展开了自己的源石技艺，令附着在那栋楼上的植物，疯狂地生长起来，直至两个人能够碰到的藤曼，星熊用左手抓住了藤曼，但由于惯性，藤曼所牵连的树枝被折断，但好歹是像荡秋千一样，撞在了由爬山虎做成的缓冲层上，在最后的几刻，脱离了危险，大楼也一并倒塌。
-                                                                                                                                                    ^
-
-File "game/script/镜中之人06.rpy", line 574: expected statement.
-    “鬼姐。”她松开了手，两个人瘫坐在地上，林扒开她紧握的手，被划破的手套，小心地脱下来，植物的绿色汁液与红色的血混在一起，他从外套中掏出酒精湿巾，细心地清理后，撕开自己身穿的衣服，在伤口上包扎，以极短的速度中做好了处理。
-                                                                                                                 ^
-
-File "game/script/镜中之人06.rpy", line 576: expected statement.
-    “谢谢。”星熊抓住他的手，被拉起来，两个人再回身看向大楼时，废墟已经完全地转变成了堆积源石的矿场。
-                                                     ^
-
-File "game/script/镜中之人06.rpy", line 578: expected statement.
-    咔咔咔！有什么裂开，盯着源石看的两个人，视觉开始变得扭曲，身体的不适逐渐地凸显，林拉着星熊向后退去，但那种规模下的源石堆积，竟然在几个瞬间全都破碎，完整地化作了粉尘，紧接着从中诞生出一个人，一个完全没有受到影响的人——谷涸，站在残留的废墟之上，向下俯视，搜寻一圈的眼神，看到了他们两人。
-                                                                                                                                                   ^
-
-File "game/script/镜中之人06.rpy", line 580: expected statement.
-    “我们又见面了。”他的脸上露出了笑容：“你是来找个的吧！”他举起手臂，张开手掌，挂在手指上的银色磨砂U盘落下来：“被人盗取的资料，就在这里。”
-                                                                           ^
-
-File "game/script/镜中之人06.rpy", line 582: expected statement.
-    “我怎么知道真假。”他已经见证了这一切。
-                        ^
-
-File "game/script/镜中之人06.rpy", line 584: expected statement.
-    “你的意思是，只要我说是假的，你就会把这一切当作没有发生是吗？”他笑得更开心：“天真，我怎会留下祸患呢？”
-                                                         ^
-
-File "game/script/镜中之人06.rpy", line 586: expected statement.
-    林的心跳加快，握着鬼姐的手感受到力量，他看了她一眼，松开了手，更换手枪的弹夹左手握住，右手抓住垂下的藤蔓，在小拇指处握断，他在其中注入了一颗种子，种子局限在藤蔓中生长，让柔软的本身变得坚硬。星熊将在后背的盾牌抓在手上。
-                                                                                                                 ^
-
-File "game/script/镜中之人06.rpy", line 588: expected statement.
-    “我希望，你找的帮手真的有用，而不再是以卵击石。”谷涸把U盘放入衣服之中，将在背后的剑拔出，双手握住，指向了两人。
-                                                             ^
-
-File "game/script/镜中之人06.rpy", line 590: expected statement.
-    这是挑战者与被挑战者的故事，林先一步冲了上来，手中的藤蔓已经变成了一把短枪，他在刺出去的同时旋转手臂，借用全身的力量，刺在他的胸膛，藤蔓的尖端被轻易地破坏，裹在其中的种子爆裂出来，将谷涸抓住，挥出的剑砍断藤蔓，迎着林，砍在了星熊的盾牌上，振出了气浪，与轰鸣声，仿佛是两种能力的对抗，鬼姐的角亮了起来。
-                                                                                                                                                          ^
-
-File "game/script/镜中之人06.rpy", line 592: expected statement.
-    但似乎是谷涸更胜一筹，用力地前压之后冲散了星熊的气势，将她击飞，也同时将在周围缠绕的藤蔓震断，着已经是无法对抗的存在了，林明白的，清楚的，知道的，但，至少要撑到支援的到来。
-                                                                                          ^
-
-File "game/script/镜中之人06.rpy", line 594: expected statement.
-    “我承认你的这位朋友，很厉害。”他跃起，双手握剑，向下劈砍，逼退了林，陷阱触发，却是软弱无力，谷涸从烟尘伸出了左手，抓住了使用源石技艺林的脖子，将他举起来。
-                                                                                  ^
-
-File "game/script/镜中之人06.rpy", line 596: expected statement.
-    “但对我没用，你还是像上次一样，毫无改进啊！”他的手用力，扼住了他的呼吸。林挥出右手，木质在手上生长，然后触碰破碎。
-                                                              ^
-
-File "game/script/镜中之人06.rpy", line 598: expected statement.
-    “想要蜉蝣撼动大树吗？”谷涸随意地挥出了一剑，将迎上来的星熊击推，振动了盾牌，更是让支撑的双手颤抖，但林还没有放弃，令周围的藤蔓一并上来，缠住他的左手。
-                                                                                ^
-
-File "game/script/镜中之人06.rpy", line 600: expected statement.
-    “看来得让你长点教训啊！”谷涸举起剑，重重地挥下去，鬼姐挡住了这一下，但却倒地，再起不能，就连角也暗淡了下去，身体的损伤，迫使她从嘴角流出了鲜血。
-                                                                             ^
-
-File "game/script/镜中之人06.rpy", line 602: expected statement.
-    谷涸再次举起剑，他是世界的仲裁者，无法估量价值者，将剑抵在林的右手，在没有任何阻碍地弥想下，切断了林的手臂，鲜血喷薄而出，却连剑，或者他的衣服一点也没有沾染到。
-                                                                                    ^
-
-File "game/script/镜中之人06.rpy", line 604: expected statement.
-    “啊啊啊啊！”林痛苦地喊叫着，这直接地疼痛，让他异常清醒，全身挣扎着想要逃脱。
-                                           ^
-
-File "game/script/镜中之人06.rpy", line 606: expected statement.
-    “懂了吗？”他问。
-             ^
-
-File "game/script/镜中之人06.rpy", line 608: expected statement.
-    砰！林举起唯一能动的左手，开出了一枪，谷涸的脸上表示不解，又开出了一枪，表情已经开始从不解转为了忍耐，再一枪，他不再忍耐任何，将手上的力气加大，逼迫着一个人的窒息而死，子弹全都被压扁似的掉落在地上。
-                                                                                                       ^
-
-File "game/script/镜中之人06.rpy", line 610: expected statement.
-    “我从没想过，会有一个人如此迫切地寻死。”他深呼吸一口气，继续说：“只要你现在求我，你还能活下去！”
-                                                      ^
-
-File "game/script/镜中之人06.rpy", line 612: expected statement.
-    林的笑容变得狰狞：“笑话。”稳住了左手，将枪口指着他。
-                               ^
-
-File "game/script/镜中之人06.rpy", line 614: expected statement.
-    “开枪对我没用的，你试了这么多次，还不明白吗？”
-                            ^
-
-File "game/script/镜中之人06.rpy", line 616: expected statement.
-    “这一次，可有点不一样！”林闭上了眼睛，他的听力终于恢复，不再只是嘈杂，而是清楚地听到了铃声，他开出了自己最后的一枪。
-                                                               ^
-
-File "game/script/镜中之人06.rpy", line 618: expected statement.
-    子弹打入谷涸的胸膛，他不敢置信地丢掉林，残臂旁流着的鲜血在空中画成了弯弧，倒在地上，掩息的星熊将他抱起，用手捂住了伤口；子弹没有穿过谷涸的身体，因为铃声只持续了一瞬，但一瞬就已经足够子弹，突破谜一般的防护，将死亡的恐惧传递给他。
-                                                                                                                      ^
-
-File "game/script/镜中之人06.rpy", line 620: expected statement.
-    在子弹的位置，生长出了黑色的源石碎片，它们参差，它们不整，它们蔓延，一点点地吞噬着谷涸的身体，完全不可逆的过程，即使是近乎无敌的谷涸，也无法抵抗来自内部的崩离解析，失去了支撑而倒下。
-                                                                                               ^
-
-File "game/script/镜中之人06.rpy", line 622: expected statement.
-    敲响铃声的是钟，他慢慢走过来，他的右手握着一把枪，瞄准谷涸，扣动了扳机，注视着一切的他，看到了子弹被挤压成一点后弹走，停下了脚步，但谷涸的样子，是怎样也不能够反抗的状况，他再次振铃，同时开枪，一样的过程，一样的结果。
-                                                                                                                ^
-
-File "game/script/镜中之人06.rpy", line 624: expected statement.
-    “现在，谁也杀不了他了。”他说。
-                    ^
-
-File "game/script/镜中之人06.rpy", line 626: expected statement.
-    “星熊小姐，近卫队的众人很快就会到来，林会没事的。”他蹲下去，以医生的身份，开始替林进行紧急止血。
-                                                     ^
-
-File "game/script/镜中之人06.rpy", line 628: expected statement.
-    又一个人出现，悄无声息地，毫无道理的，警觉到一切的钟站起来回身查看，是穿着白色衣服和黑色裤子的人，两个人互相对视着，观察着，试探着。
-                                                                      ^
-
-File "game/script/镜中之人06.rpy", line 630: expected statement.
-    终于来者开口说话：“钟医生，我是景。”钟感到惊讶，他的记忆里，景从来不会如此冷默，也没有现身的理由。他看着景，将谷涸抱起来，一只手伸入到衣服之中，拿出了什么。
-                                                                                   ^
-
-File "game/script/镜中之人06.rpy", line 632: expected statement.
-    “接住！”他抛起那个东西，反了一下光，钟下意识地接住：“这是什么？”
-                                      ^
-
-File "game/script/镜中之人06.rpy", line 634: expected statement.
-    “你要找的东西，特别是龙门近卫队要找的。”他转身就要离开，但似乎看到了什么，跃起的动作停了下来。
-                                                    ^
-
-File "game/script/镜中之人06.rpy", line 636: expected statement.
-    “和我有什么关系。”他问。
-                 ^
-
-File "game/script/镜中之人06.rpy", line 638: expected statement.
-    “我不清楚，帮我打碎这面镜子！”景说，将一面镜子丢过来，钟看着那面镜子，看到了一瞬的白光，当镜子被接住的时候，两个人就像昨天一样，凭空消失不见。
-                                                                            ^
-
-File "game/script/镜中之人06.rpy", line 640: expected statement.
-    “他们在这里！”有人这样喊道，支援来了。
-                        ^
-
-File "game/script/镜中之人06.rpy", line 642: expected statement.
-    “这下头疼了。”钟自言自语说，他并没有打碎镜子的想法，回神看向还清醒的星熊小姐，有了一种请求的眼神。
-                                                      ^
+Faled to initialize steam: FileNotFoundError("Could not find module 'F:\\Program Files (x86)\\Renpy\\renpy-7.4.11-sdk\\lib\\py3-windows-x86_64\\steam_api64.dll' (or one of its dependencies). Try using the full path with constructor syntax.")
+Running init code took 0.07s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\hp\\AppData\\Roaming/RenPy/backups\\Anecdote of Longmen':
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
 DPI scale factor: 1.250000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Interface start took 0.42s
+Creating interface object took 0.27s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.03s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.16s
 
 Initializing gl2 renderer:
 primary display bounds: (0, 0, 1920, 1080)
@@ -370,29 +48,29 @@ Display Info: None
 Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
 Maximum texture size: 4096x4096
 Resetting cache.
-Bootstrap to the start of init.init took 5255.95s
+Bootstrap to the start of init.init took 311.59s
 Early init took 0.00s
-Loader init took 0.09s
+Loader init took 0.08s
 Loading error handling took 0.02s
-Loading script took 0.34s
-Loading save slot metadata. took 0.02s
+Loading script took 0.26s
+Loading save slot metadata. took 0.03s
 Loading persistent took 0.00s
 Faled to initialize steam: FileNotFoundError("Could not find module 'F:\\Program Files (x86)\\Renpy\\renpy-7.4.11-sdk\\lib\\py3-windows-x86_64\\steam_api64.dll' (or one of its dependencies). Try using the full path with constructor syntax.")
-Running init code took 0.09s
+Running init code took 0.03s
 Loading analysis data took 0.01s
 Analyze and compile ATL took 0.00s
 Index archives took 0.00s
 Backing up script files to 'C:\\Users\\hp\\AppData\\Roaming/RenPy/backups\\Anecdote of Longmen':
-Dump and make backups. took 0.06s
+Dump and make backups. took 0.05s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
 Initial gc. took 0.02s
 DPI scale factor: 1.250000
 nvdrs: Loaded, about to disable thread optimizations.
 nvdrs: Disabled thread optimizations.
-Creating interface object took 0.27s
+Creating interface object took 0.25s
 Cleaning stores took 0.00s
-Init translation took 0.04s
+Init translation took 0.03s
 Build styles took 0.00s
 Load screen analysis took 0.00s
 Analyze screens took 0.01s
@@ -414,3 +92,710 @@ Version: b'4.6.0 NVIDIA 522.06'
 Display Info: None
 Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
 Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Resetting cache.
+Bootstrap to the start of init.init took 578.75s
+Early init took 0.00s
+Loader init took 0.09s
+Loading error handling took 0.02s
+Loading script took 0.18s
+Loading save slot metadata. took 0.03s
+Loading persistent took 0.00s
+
+File "game/script/镜中之人02_1.rpy", line 3: Indentation mismatch.
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start took 0.36s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 522.06'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 582.01s
+Early init took 0.00s
+Loader init took 0.08s
+Loading error handling took 0.02s
+Loading script took 0.17s
+Loading save slot metadata. took 0.03s
+Loading persistent took 0.00s
+Faled to initialize steam: FileNotFoundError("Could not find module 'F:\\Program Files (x86)\\Renpy\\renpy-7.4.11-sdk\\lib\\py3-windows-x86_64\\steam_api64.dll' (or one of its dependencies). Try using the full path with constructor syntax.")
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\hp\\AppData\\Roaming/RenPy/backups\\Anecdote of Longmen':
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.02s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.31s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 522.06'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 586.86s
+Early init took 0.00s
+Loader init took 0.08s
+Loading error handling took 0.02s
+Loading script took 0.17s
+Loading save slot metadata. took 0.03s
+Loading persistent took 0.00s
+Faled to initialize steam: FileNotFoundError("Could not find module 'F:\\Program Files (x86)\\Renpy\\renpy-7.4.11-sdk\\lib\\py3-windows-x86_64\\steam_api64.dll' (or one of its dependencies). Try using the full path with constructor syntax.")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\hp\\AppData\\Roaming/RenPy/backups\\Anecdote of Longmen':
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.27s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 522.06'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 590.20s
+Early init took 0.00s
+Loader init took 0.08s
+Loading error handling took 0.02s
+Loading script took 0.16s
+Loading save slot metadata. took 0.03s
+Loading persistent took 0.00s
+
+File "game/script/镜中之人02_2.rpy", line 3: Indentation mismatch.
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Interface start took 0.37s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 522.06'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 593.42s
+Early init took 0.00s
+Loader init took 0.09s
+Loading error handling took 0.02s
+Loading script took 0.18s
+Loading save slot metadata. took 0.03s
+Loading persistent took 0.00s
+Faled to initialize steam: FileNotFoundError("Could not find module 'F:\\Program Files (x86)\\Renpy\\renpy-7.4.11-sdk\\lib\\py3-windows-x86_64\\steam_api64.dll' (or one of its dependencies). Try using the full path with constructor syntax.")
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\hp\\AppData\\Roaming/RenPy/backups\\Anecdote of Longmen':
+Dump and make backups. took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.27s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 522.06'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 598.27s
+Early init took 0.00s
+Loader init took 0.09s
+Loading error handling took 0.02s
+Loading script took 0.22s
+Loading save slot metadata. took 0.03s
+Loading persistent took 0.00s
+Faled to initialize steam: FileNotFoundError("Could not find module 'F:\\Program Files (x86)\\Renpy\\renpy-7.4.11-sdk\\lib\\py3-windows-x86_64\\steam_api64.dll' (or one of its dependencies). Try using the full path with constructor syntax.")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\hp\\AppData\\Roaming/RenPy/backups\\Anecdote of Longmen':
+Dump and make backups. took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.26s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 522.06'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 601.69s
+Early init took 0.00s
+Loader init took 0.16s
+Loading error handling took 0.02s
+Loading script took 0.22s
+Loading save slot metadata. took 0.03s
+Loading persistent took 0.00s
+Faled to initialize steam: FileNotFoundError("Could not find module 'F:\\Program Files (x86)\\Renpy\\renpy-7.4.11-sdk\\lib\\py3-windows-x86_64\\steam_api64.dll' (or one of its dependencies). Try using the full path with constructor syntax.")
+Running init code took 0.04s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\hp\\AppData\\Roaming/RenPy/backups\\Anecdote of Longmen':
+Dump and make backups. took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.29s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 522.06'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 606.64s
+Early init took 0.00s
+Loader init took 0.08s
+Loading error handling took 0.02s
+Loading script took 0.20s
+Loading save slot metadata. took 0.03s
+Loading persistent took 0.00s
+Faled to initialize steam: FileNotFoundError("Could not find module 'F:\\Program Files (x86)\\Renpy\\renpy-7.4.11-sdk\\lib\\py3-windows-x86_64\\steam_api64.dll' (or one of its dependencies). Try using the full path with constructor syntax.")
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\hp\\AppData\\Roaming/RenPy/backups\\Anecdote of Longmen':
+Dump and make backups. took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.26s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 522.06'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 614.53s
+Early init took 0.00s
+Loader init took 0.08s
+Loading error handling took 0.02s
+Loading script took 0.17s
+Loading save slot metadata. took 0.03s
+Loading persistent took 0.00s
+Faled to initialize steam: FileNotFoundError("Could not find module 'F:\\Program Files (x86)\\Renpy\\renpy-7.4.11-sdk\\lib\\py3-windows-x86_64\\steam_api64.dll' (or one of its dependencies). Try using the full path with constructor syntax.")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\hp\\AppData\\Roaming/RenPy/backups\\Anecdote of Longmen':
+Dump and make backups. took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.31s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.03s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 522.06'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 622.44s
+Early init took 0.00s
+Loader init took 0.08s
+Loading error handling took 0.02s
+Loading script took 0.20s
+Loading save slot metadata. took 0.04s
+Loading persistent took 0.00s
+Faled to initialize steam: FileNotFoundError("Could not find module 'F:\\Program Files (x86)\\Renpy\\renpy-7.4.11-sdk\\lib\\py3-windows-x86_64\\steam_api64.dll' (or one of its dependencies). Try using the full path with constructor syntax.")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\hp\\AppData\\Roaming/RenPy/backups\\Anecdote of Longmen':
+Dump and make backups. took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.27s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 522.06'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 625.77s
+Early init took 0.00s
+Loader init took 0.09s
+Loading error handling took 0.03s
+Loading script took 0.26s
+Loading save slot metadata. took 0.03s
+Loading persistent took 0.00s
+Faled to initialize steam: FileNotFoundError("Could not find module 'F:\\Program Files (x86)\\Renpy\\renpy-7.4.11-sdk\\lib\\py3-windows-x86_64\\steam_api64.dll' (or one of its dependencies). Try using the full path with constructor syntax.")
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\hp\\AppData\\Roaming/RenPy/backups\\Anecdote of Longmen':
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.28s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 522.06'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 630.65s
+Early init took 0.00s
+Loader init took 0.09s
+Loading error handling took 0.02s
+Loading script took 0.19s
+Loading save slot metadata. took 0.03s
+Loading persistent took 0.00s
+Faled to initialize steam: FileNotFoundError("Could not find module 'F:\\Program Files (x86)\\Renpy\\renpy-7.4.11-sdk\\lib\\py3-windows-x86_64\\steam_api64.dll' (or one of its dependencies). Try using the full path with constructor syntax.")
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\hp\\AppData\\Roaming/RenPy/backups\\Anecdote of Longmen':
+Dump and make backups. took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.04s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.28s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.02s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 522.06'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 632.49s
+Early init took 0.00s
+Loader init took 0.08s
+Loading error handling took 0.02s
+Loading script took 0.18s
+Loading save slot metadata. took 0.03s
+Loading persistent took 0.00s
+Faled to initialize steam: FileNotFoundError("Could not find module 'F:\\Program Files (x86)\\Renpy\\renpy-7.4.11-sdk\\lib\\py3-windows-x86_64\\steam_api64.dll' (or one of its dependencies). Try using the full path with constructor syntax.")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\hp\\AppData\\Roaming/RenPy/backups\\Anecdote of Longmen':
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.27s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 522.06'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 637.38s
+Early init took 0.00s
+Loader init took 0.08s
+Loading error handling took 0.02s
+Loading script took 0.37s
+Loading save slot metadata. took 0.03s
+Loading persistent took 0.00s
+Faled to initialize steam: FileNotFoundError("Could not find module 'F:\\Program Files (x86)\\Renpy\\renpy-7.4.11-sdk\\lib\\py3-windows-x86_64\\steam_api64.dll' (or one of its dependencies). Try using the full path with constructor syntax.")
+Running init code took 0.04s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\hp\\AppData\\Roaming/RenPy/backups\\Anecdote of Longmen':
+Dump and make backups. took 0.05s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.27s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.01s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.05s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 522.06'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 640.91s
+Early init took 0.00s
+Loader init took 0.08s
+Loading error handling took 0.02s
+Loading script took 0.32s
+Loading save slot metadata. took 0.04s
+Loading persistent took 0.00s
+Faled to initialize steam: FileNotFoundError("Could not find module 'F:\\Program Files (x86)\\Renpy\\renpy-7.4.11-sdk\\lib\\py3-windows-x86_64\\steam_api64.dll' (or one of its dependencies). Try using the full path with constructor syntax.")
+Running init code took 0.05s
+Loading analysis data took 0.02s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Backing up script files to 'C:\\Users\\hp\\AppData\\Roaming/RenPy/backups\\Anecdote of Longmen':
+Dump and make backups. took 0.07s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.28s
+Cleaning stores took 0.00s
+Init translation took 0.04s
+Build styles took 0.00s
+Load screen analysis took 0.00s
+Analyze screens took 0.01s
+Save screen analysis took 0.05s
+Prepare screens took 0.04s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.02s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.06s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 522.06'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+Maximum texture size: 4096x4096
+Resetting cache.
+Bootstrap to the start of init.init took 656.39s
+Early init took 0.00s
+Loader init took 0.09s
+Loading error handling took 0.02s
+Loading script took 0.18s
+Loading save slot metadata. took 0.03s
+Loading persistent took 0.00s
+Faled to initialize steam: FileNotFoundError("Could not find module 'F:\\Program Files (x86)\\Renpy\\renpy-7.4.11-sdk\\lib\\py3-windows-x86_64\\steam_api64.dll' (or one of its dependencies). Try using the full path with constructor syntax.")
+Running init code took 0.03s
+Loading analysis data took 0.01s
+Analyze and compile ATL took 0.00s
+Index archives took 0.00s
+Dump and make backups. took 0.06s
+Cleaning cache took 0.00s
+Making clean stores took 0.00s
+Initial gc. took 0.03s
+DPI scale factor: 1.250000
+nvdrs: Loaded, about to disable thread optimizations.
+nvdrs: Disabled thread optimizations.
+Creating interface object took 0.27s
+Cleaning stores took 0.00s
+Init translation took 0.03s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Save screen analysis took 0.00s
+Prepare screens took 0.05s
+Save pyanalysis. took 0.00s
+Save bytecode. took 0.00s
+Running _start took 0.00s
+Performance test:
+Interface start took 0.07s
+
+Initializing gl2 renderer:
+primary display bounds: (0, 0, 1920, 1080)
+swap interval: 1 frames
+Windowed mode.
+Vendor: "b'NVIDIA Corporation'"
+Renderer: b'NVIDIA GeForce GTX 1050/PCIe/SSE2'
+Version: b'4.6.0 NVIDIA 522.06'
+Display Info: None
+Screen sizes: virtual=(1280, 720) physical=(1600, 900) drawable=(1600, 900)
+Maximum texture size: 4096x4096
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s
+Cleaning stores took 0.00s
+Init translation took 0.00s
+Build styles took 0.00s
+Load screen analysis took 0.02s
+Analyze screens took 0.00s
+Prepare screens took 0.00s
+Running _start took 0.00s

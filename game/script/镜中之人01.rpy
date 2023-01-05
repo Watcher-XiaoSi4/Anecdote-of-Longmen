@@ -1,4 +1,6 @@
 label 镜中之人01:
+    $ gui.accent_menu_background = "gui/横置game1.png"
+    $ gui.rebuild()
     scene jiedao with fade
     "林和她在空无一人的街上走着。"
     show lin at left with dissolve
