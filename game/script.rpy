@@ -16,6 +16,7 @@ define ou = Character("人偶",image = "ou")
 define u = Character("未知")
 define a = Character("阿姨")
 
+$_dissmiss_pause = False
 default count_lin = 0
 default count_die = 0
 default count_lindie = 0

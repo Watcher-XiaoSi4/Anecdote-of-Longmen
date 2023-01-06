@@ -112,6 +112,8 @@ label 镜中之人01:
     d "“好好吃饭！”她有些气，又有些好笑地命令林！在心里默默地笑了起来。"
     l "“是！”他重新坐下来，举了白旗，三个人总算将饭吃完。"
     "那么，让谁去洗碗？"
+    $ gui.accent_menu_background = "gui/横置game1.png"
+    $ gui.rebuild()
     menu:
         "蝶":
             $ count_die += 1
