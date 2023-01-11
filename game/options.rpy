@@ -21,7 +21,7 @@ define gui.show_name = False
 
 ## 游戏版本号。
 
-define config.version = "0.1"
+define config.version = "0.15"
 
 
 ## 放置在游戏内“关于”屏幕上的文本。将文本放在三个引号之间，并在段落之间留出空
@@ -32,11 +32,11 @@ define gui.about = _p("""
 
 主页：{a=https://space.bilibili.com/35007776?spm_id_from=333.788.0.0/}钟表学徒小寺4{/a}
 
-背景音乐为游戏原声及相关音乐
+背景音乐为游戏原声及相关音乐，主要来自{a=https://space.bilibili.com/25028812}我不识字呜呜呜{/a}的贡献
 
-角色图片及背景图片为游戏原图加上novel-naifu-aki（AI绘画）制作
+角色图片及背景图片为游戏原图，主要来自{a=https://wiki.biligame.com/arknights/%E6%B8%B8%E6%88%8F%E9%A6%96%E9%A1%B5%E5%9C%BA%E6%99%AF}B站WIKI{/a}
 
-以及自制blender工程渲染
+以及自制blender工程渲染加上novel-naifu-aki（AI绘画）美化
 
 仅供交流学习，禁止商用，永久免费
 """)
@@ -45,7 +45,7 @@ define gui.about = _p("""
 ## 在构建的发布版中，可执行文件和目录所使用的短名称。此处仅限使用 ASCII 字符，并
 ## 且不能包含空格、冒号或分号。
 
-define build.name = "AnecdoteofLongmen"
+define build.name = "Anecdote-of-Longmen"
 
 
 ## 音效和音乐 #######################################################################
@@ -55,7 +55,7 @@ define build.name = "AnecdoteofLongmen"
 
 define config.has_sound = True
 define config.has_music = True
-define config.has_voice = True
+define config.has_voice = False
 
 
 ## 为了让用户在音效或语音轨道上播放测试音频，请取消对下面一行的注释并设置播放的
@@ -68,7 +68,7 @@ define config.has_voice = True
 ## 将以下语句取消注释就可以设置标题界面播放的背景音乐文件。此文件将在整个游戏中
 ## 持续播放，直至音乐停止或其他文件开始播放。
 
-# define config.main_menu_music = "main-menu-theme.ogg"
+define config.main_menu_music = "audio/sys_void.mp3"
 
 
 ## 转场 ##########################################################################
@@ -89,12 +89,12 @@ define config.intra_transition = dissolve
 
 ## 载入游戏后使用的转场。
 
-define config.after_load_transition = None
+define config.after_load_transition = fade
 
 
 ## 在游戏结束之后进入主菜单时使用的转场。
 
-define config.end_game_transition = None
+define config.end_game_transition = fade
 
 
 ## 用于控制在游戏开始标签不存在时转场的变量。作为替代，在显示初始化场景后使用

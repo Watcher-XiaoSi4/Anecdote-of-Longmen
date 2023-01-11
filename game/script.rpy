@@ -73,6 +73,13 @@ image weiwan = im.FactorScale("images/screen/未完成.png",1.5)
 
 # 游戏在此开始。
 
+label splashscreen:
+    show game0 with fade
+    with Pause(1)
+    return
+
+define config.fade_music = 0.5
+
 label start:
 
     # 显示一个背景。此处默认显示占位图，但您也可以在图片目录添加一个文件

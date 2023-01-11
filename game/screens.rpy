@@ -277,13 +277,13 @@ style quick_button_text:
 ## 该界面包含在标题菜单和游戏菜单中，并提供导航到其他菜单，以及启动游戏。
 
 screen navigation():
-
+    
     vbox:
         style_prefix "navigation"
 
         xpos gui.navigation_xpos
         yalign 0.5
-
+        
         spacing gui.navigation_spacing
 
         if main_menu:
@@ -310,10 +310,10 @@ screen navigation():
 
         textbutton _("关于") action ShowMenu("about")
 
-        if renpy.variant("pc") or (renpy.variant("web") and not renpy.variant("mobile")):
+        # if renpy.variant("pc") or (renpy.variant("web") and not renpy.variant("mobile")):
 
-            ## “帮助”对移动设备来说并非必需或相关。
-            textbutton _("帮助") action ShowMenu("help")
+        #     ## “帮助”对移动设备来说并非必需或相关。
+        #     textbutton _("帮助") action ShowMenu("help")
 
         if renpy.variant("pc"):
 
@@ -716,7 +716,7 @@ screen preferences():
                     label _("快进")
                     textbutton _("未读文本") action Preference("skip", "toggle")
                     textbutton _("选项后继续") action Preference("after choices", "toggle")
-                    textbutton _("忽略转场") action InvertSelected(Preference("transitions", "toggle"))
+                    # textbutton _("忽略转场") action InvertSelected(Preference("transitions", "toggle"))
 
                 ## 可在此处添加 radio_pref 或 check_pref 类型的额外 vbox，以添加
                 ## 额外的创建者定义的偏好设置。

@@ -2,7 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script/镜中之人02_2.rpy", line 3: Indentation mismatch.
+File "game/screens.rpy", line 280: 'play' is not a keyword argument or valid child for the screen statement.
+    play music sys_void volume 0.2
+        ^
 
 Ren'Py Version: Ren'Py 8.0.3.22090809
-Thu Jan  5 22:10:08 2023
+Wed Jan 11 18:53:56 2023
