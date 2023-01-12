@@ -1,6 +1,7 @@
 label 镜中之人02_1:
     $ gui.accent_menu_background = "gui/横置game1.png"
     $ gui.rebuild()
+    play music avg_drift
     "林站起来，将所有的碗和要洗的盘子收起来，蝶也站起来。"
     "两个人默契地没有说话，却都在行动着，就像是一起了很久的家人，熟悉了相处的规则。"
     "将这一切看在眼里的孩子，也站了起来，想要帮上什么忙。"

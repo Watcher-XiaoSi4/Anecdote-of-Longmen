@@ -1,7 +1,7 @@
 label 镜中之人01:
     $ gui.accent_menu_background = "gui/横置game1.png"
     $ gui.rebuild()
-    play music sys_void volume 0.5
+    play music avg_storyendjp
     scene jiedao with fade
     "林和她在空无一人的街上走着。"
     show lin at left with dissolve
@@ -50,6 +50,7 @@ label 镜中之人01:
     scene weiwan with fade
     show lin at left with dissolve
     show die at right with dissolve
+    play music sys_penguinlogistics
     "林松开右手，那上面尽是铁锈，在慌张与舒怡之中，不适感被忽略了，重新打开门，蝶站在了她的面前，双手叉腰，挡住了他的去路。"
     d "“那个孩子是谁？”她很生气。"
     l "“无辜的孩子。”他关上门，小心翼翼地让右手掌和物品保持着距离。"

@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/screens.rpy", line 280: 'play' is not a keyword argument or valid child for the screen statement.
-    play music sys_void volume 0.2
-        ^
+File "game/script/镜中之人01.rpy", line 4: expected end of line
+    play music bat_longmencity 0.5
+                               ^
 
 Ren'Py Version: Ren'Py 8.0.3.22090809
-Wed Jan 11 18:53:56 2023
+Thu Jan 12 19:15:50 2023
