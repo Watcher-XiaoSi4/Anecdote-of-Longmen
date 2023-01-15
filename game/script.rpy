@@ -70,6 +70,7 @@ image dingceng = im.FactorScale("images/screen/顶层.png",1.5)
 image jiewei = im.FactorScale("images/screen/结尾.png",1.5)
 image louti = "images/screen/外置楼梯.png"
 image weiwan = im.FactorScale("images/screen/未完成.png",1.5)
+image jiyi = im.FactorScale("images/screen/如果有记忆.png",1.5)
 
 # 游戏在此开始。
 
@@ -100,6 +101,34 @@ label start:
     show die at right
 
     "内容不免OOC，还望谅解。"
+
+    nvl clear
+    
+    # scene jiyi with fade
+
+    "“你叫什么名字？”"
+
+    "“安特-博古。”"
+
+    "“不！你叫做林。”"
+
+    "“不要。”"
+
+    "“嘶，嘶嘶嘶~”"
+
+    "“你叫什么名字。”"
+
+    "“安特……”"
+
+    "“嘶，嘶嘶嘶~”"
+
+    "“你叫什么名字？”"
+
+    "“林。”"
+
+    # {clear}
+
+    nvl clear
 
     jump 镜中之人01
 

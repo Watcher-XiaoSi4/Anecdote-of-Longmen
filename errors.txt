@@ -2,9 +2,13 @@
 errors listed below, and try again.
 
 
-File "game/script/镜中之人01.rpy", line 4: expected end of line
-    play music bat_longmencity 0.5
-                               ^
+File "game/script.rpy", line 107: 'with' is not a keyword argument or valid child for the screen statement.
+    screen jiyi with fade
+                    ^
+
+File "game/script.rpy", line 129: expected statement.
+    {clear}
+           ^
 
 Ren'Py Version: Ren'Py 8.0.3.22090809
-Thu Jan 12 19:15:50 2023
+Sun Jan 15 22:56:47 2023
