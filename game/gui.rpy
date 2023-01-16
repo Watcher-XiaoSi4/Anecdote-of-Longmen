@@ -54,28 +54,28 @@ define gui.interface_text_color = '#ffffff'
 ## 字体和字体大小 #####################################################################
 
 ## 游戏内文本使用的字体。
-define gui.text_font = "SourceHanSansLite.ttf"
+define gui.text_font = "simkai.ttf"
 
 ## 角色名称使用的字体。
-define gui.name_text_font = "SourceHanSansLite.ttf"
+define gui.name_text_font = "simkai.ttf"
 
 ## 游戏外文本使用的字体。
-define gui.interface_text_font = "SourceHanSansLite.ttf"
+define gui.interface_text_font = "simkai.ttf"
 
 ## 普通对话文本的大小。
-define gui.text_size = 22
+define gui.text_size = 28
 
 ## 角色名称的大小。
 define gui.name_text_size = 30
 
 ## 游戏用户界面中文本的大小。
-define gui.interface_text_size = 22
+define gui.interface_text_size = 25
 
 ## 游戏用户界面中标签的大小。
 define gui.label_text_size = 24
 
 ## 通知屏幕上文本的大小。
-define gui.notify_text_size = 16
+define gui.notify_text_size = 25
 
 ## 游戏标题的大小。
 define gui.title_text_size = 50
@@ -176,7 +176,7 @@ define gui.confirm_button_text_xalign = 0.5
 define gui.page_button_borders = Borders(10, 4, 10, 4)
 
 define gui.quick_button_borders = Borders(10, 4, 10, 0)
-define gui.quick_button_text_size = 14
+define gui.quick_button_text_size = 22
 define gui.quick_button_text_idle_color = gui.idle_small_color
 define gui.quick_button_text_selected_color = gui.accent_color
 
@@ -211,7 +211,7 @@ define gui.choice_button_text_insensitive_color = "#444444"
 define gui.slot_button_width = 276
 define gui.slot_button_height = 206
 define gui.slot_button_borders = Borders(10, 10, 10, 10)
-define gui.slot_button_text_size = 14
+define gui.slot_button_text_size = 25
 define gui.slot_button_text_xalign = 0.5
 define gui.slot_button_text_idle_color = gui.idle_small_color
 define gui.slot_button_text_selected_idle_color = gui.selected_color
@@ -343,14 +343,14 @@ define gui.nvl_borders = Borders(0, 10, 0, 20)
 
 ## Ren'Py 所显示的 NVL 模式条目的最大数量。当要显示的条目多于此数量时，最旧的条
 ## 目将被删除。
-define gui.nvl_list_length = 6
+define gui.nvl_list_length = 15
 
 ## NVL 模式条目的高度。将此设置为 None 可使条目动态调整高度。
-define gui.nvl_height = 115
+define gui.nvl_height = 80
 
 ## 当 gui.nvl_height 为 None 时，NVL 模式条目之间的间距，以及 NVL 模式条目和 NVL
 ## 模式菜单之间的间距。
-define gui.nvl_spacing = 10
+define gui.nvl_spacing = None
 
 ## 所指定叙述角色的标签的坐标、宽度和对齐方式。
 define gui.nvl_name_xpos = 430
@@ -360,7 +360,7 @@ define gui.nvl_name_xalign = 1.0
 
 ## 对话文本的坐标、宽度和对齐方式。
 define gui.nvl_text_xpos = 450
-define gui.nvl_text_ypos = 8
+define gui.nvl_text_ypos = 400
 define gui.nvl_text_width = 590
 define gui.nvl_text_xalign = 0.0
 

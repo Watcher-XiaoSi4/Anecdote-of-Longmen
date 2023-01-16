@@ -2,13 +2,32 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 107: 'with' is not a keyword argument or valid child for the screen statement.
-    screen jiyi with fade
-                    ^
-
-File "game/script.rpy", line 129: expected statement.
-    {clear}
-           ^
+File "game/script.rpy", line 111: end of line expected.
+(Perhaps you left out a " at the end of the first line.)
+    """
+        ""
+          ^
+    
+        “你叫什么名字？”
+    
+        “安特-博古。”
+    
+        “不！你叫做林。”
+    
+        “不要。”
+    
+        “嘶，嘶嘶嘶~”
+    
+        “你叫什么名字。”
+    
+        “安特……”
+    
+        “嘶，嘶嘶嘶~”
+    
+        “你叫什么名字？”
+        
+        “林。”
+        """
 
 Ren'Py Version: Ren'Py 8.0.3.22090809
-Sun Jan 15 22:56:47 2023
+Mon Jan 16 15:37:40 2023

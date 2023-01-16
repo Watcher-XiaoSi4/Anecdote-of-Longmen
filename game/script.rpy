@@ -16,6 +16,8 @@ define ou = Character("人偶",image = "ou")
 define u = Character("未知")
 define a = Character("阿姨")
 
+# define narrator = nvl_narrator
+
 $_dissmiss_pause = False
 default count_lin = 0
 default count_die = 0
@@ -30,7 +32,7 @@ image gu = im.FactorScale("images/new-human/character/谷涸.png",0.75)
 image jing = im.FactorScale("images/new-human/character/景.png",0.75)
 image wei = im.FactorScale("images/new-human/character/未堰.png",0.75)
 image jian = im.FactorScale("images/new-human/character/缄默.png",0.75)
-image chen = im.FactorScale("images/new-human/character/陈.png",0.6)
+image chen = im.FactorScale("images/new-human/character/陈.png",0.75)
 image xing = im.FactorScale("images/new-human/character/星熊.png",0.6)
 image shi = im.FactorScale("images/new-human/character/诗怀雅.png",0.6)
 image ou = im.FactorScale("images/new-human/character/人偶.png",0.6)
@@ -62,21 +64,26 @@ image side shi = im.FactorScale("images/new-human/side-character/side_诗怀雅.
 #背景图
 
 image game0 = "images/横置game0.png"
-image jiedao = im.FactorScale("images/screen/街道.png",1.5)
+image jiedao = im.FactorScale("images/screen/街道.png",1)
+image jiedao6 = im.FactorScale("images/screen/街道6.png",1)
+image jiedao6 = im.FactorScale("images/screen/街道7.png",1)
 image hutong = im.FactorScale("images/screen/胡同.png",1.5)
 image zhensuo = im.FactorScale("images/screen/诊所.png",1.5)
 image zhensuoneibu = im.FactorScale("images/screen/诊所内部.png",1.5)
 image dingceng = im.FactorScale("images/screen/顶层.png",1.5)
 image jiewei = im.FactorScale("images/screen/结尾.png",1.5)
-image louti = "images/screen/外置楼梯.png"
+image louti = "images/screen/旧房屋.png"
+image pinmin = "images/screen/贫民区.png"
+image pinminye = "images/screen/贫民区夜.png"
 image weiwan = im.FactorScale("images/screen/未完成.png",1.5)
 image jiyi = im.FactorScale("images/screen/如果有记忆.png",1.5)
+image dianhua = im.FactorScale("images/screen/未知的电话.png",1.5)
 
 # 游戏在此开始。
 
 label splashscreen:
     show game0 with fade
-    with Pause(0.5)
+    with Pause(0.2)
     return
 
 define config.fade_music = 0.5
@@ -102,33 +109,35 @@ label start:
 
     "内容不免OOC，还望谅解。"
 
-    nvl clear
+    scene jiyi with fade
+
+    play music dia_babel
+
+    # nvl clear
+
+    """
+
+    “你叫什么名字？”
+
+    “安特-博古。”
+
+    “不！你叫做林。”
+
+    “不要。”
+
+    “嘶，嘶嘶嘶~”
+
+    “你叫什么名字。”
+
+    “安特……”
+
+    “嘶，嘶嘶嘶~”
+
+    “你叫什么名字？”
     
-    # scene jiyi with fade
+    “林。”
 
-    "“你叫什么名字？”"
-
-    "“安特-博古。”"
-
-    "“不！你叫做林。”"
-
-    "“不要。”"
-
-    "“嘶，嘶嘶嘶~”"
-
-    "“你叫什么名字。”"
-
-    "“安特……”"
-
-    "“嘶，嘶嘶嘶~”"
-
-    "“你叫什么名字？”"
-
-    "“林。”"
-
-    # {clear}
-
-    nvl clear
+    """
 
     jump 镜中之人01
 

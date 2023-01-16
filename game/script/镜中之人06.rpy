@@ -682,7 +682,9 @@ label 镜中之人06:
     "——"
     "peng！"
     scene jiewei with fade
+    play music dia_darkness02
     "第一部分结束，感谢观看"
     "后续内容敬请期待。"
+    "欢迎提出建议"
     return
     jump 人偶师01

@@ -32,6 +32,8 @@ label 镜中之人01:
     l "“我回来了！”林回应她，但他继续说："
     l "“我还需要再打个电话，你们先吃饭。”"
     "林拨出了熟悉的号码，等待接通。"
+    scene dianhua with fade
+    show lin at left with dissolve
     show chen at right with dissolve
     c "“林，安全到家了吗？”是一名女性的声音，带着些许的焦急，还在忙吗。"
     l "“不是很远，我已经到了。”他再次强调着什么,对方是自己的上司陈。"
@@ -76,6 +78,7 @@ label 镜中之人01:
     d "“千万不要忘记了。”这似乎是死的威胁，她将脸贴得更近，然后先一步松开手，跑进了洗手间，传来水流的哗哗声。"
     scene weiwan with fade 
     show lin at left with dissolve
+    play music dia_nightoflongmen
     l "无奈地摇了摇头，一只手撑着自己缓缓站起来，重新将外套脱下，同时将鞋子换掉。"
     "来到厕所所对视的厨房，将右手好好清洗，可还是有着黄色的残留，不用肥皂不行吗？"
     "与蝶同时走出来，撞在一起，是吐出了舌头的她，先一步走了进去，床板传来吱呀的声音。"
