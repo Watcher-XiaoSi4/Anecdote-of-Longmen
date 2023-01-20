@@ -21,7 +21,7 @@ label 镜中之人01:
     "转身走进胡同之中。"
     scene hutong with fade
     "穿过在地上堆积的垃圾，在地上宿醉的无家可归之人。"
-    scene louti with fade
+    scene jiufangwu with fade
     show lin at left with dissolve
     "他们走上外搭的生锈的铁质楼梯，吱呀呀地不知道什么时候会倒下，还好，林居住的楼层很低。"
     "林打开栅栏门，向外拉，生锈将转轴一卡一卡。"
@@ -49,11 +49,11 @@ label 镜中之人01:
     "“谢谢。”他在心里说了第二遍。"
     c "“龙门欢迎你们。”她说出这句话，在心中没有任何的份量。"
     c "“先挂了！有什么事情，迅速汇报过来。”电话被挂断。"
-    scene weiwan with fade
+    "林松开右手，那上面尽是铁锈，在慌张与舒怡之中，不适感被忽略了，重新打开门，蝶站在了她的面前，双手叉腰，挡住了他的去路。"
+    scene  with fade
     show lin at left with dissolve
     show die at right with dissolve
     play music sys_penguinlogistics
-    "林松开右手，那上面尽是铁锈，在慌张与舒怡之中，不适感被忽略了，重新打开门，蝶站在了她的面前，双手叉腰，挡住了他的去路。"
     d "“那个孩子是谁？”她很生气。"
     l "“无辜的孩子。”他关上门，小心翼翼地让右手掌和物品保持着距离。"
     l "“住不了几天。”他现在很想去洗一个手，左手笨拙地拉开外套的一边。"
@@ -76,7 +76,7 @@ label 镜中之人01:
     d "“那就说好了！”"
     l "“说好了。”他微笑着说，蝶却抓住了他无所适从的右手，碎屑的小小扎刺感快速迸发，让他的意识变得清醒。"
     d "“千万不要忘记了。”这似乎是死的威胁，她将脸贴得更近，然后先一步松开手，跑进了洗手间，传来水流的哗哗声。"
-    scene weiwan with fade 
+    scene shuangrenchuang with fade 
     show lin at left with dissolve
     play music dia_nightoflongmen
     l "无奈地摇了摇头，一只手撑着自己缓缓站起来，重新将外套脱下，同时将鞋子换掉。"

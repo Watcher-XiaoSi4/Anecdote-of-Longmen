@@ -1,7 +1,7 @@
 label 镜中之人03:
     $ gui.accent_menu_background = "gui/横置game1.png"
     $ gui.rebuild()
-    scene weiwan with fade
+    scene  with fade
     show die at left with dissolve 
     show jian at right with dissolve
     d "“不许偷看！”"
@@ -64,7 +64,7 @@ label 镜中之人03:
     d "“第一次见到血吗？”"
     "蝶看着缄默的神情，问题的关键所在，似乎是："
     d "“你，无法理解红色吗？”"
-    scene weiwan with fade
+    scene shuangrenchuangye with fade
     play music "<from 0 to 28>sys_ccs0.mp3"
     "沉寂的夜晚突然发出了响声，吱呀呀，林的警觉让他醒来。"
     "昏黑的屋子，在月透过窗帘的光之下，勉强看得清楚，勉强听见，持续的水流声，为所有的声音蒙上一层无法轻易透过的纱。"
@@ -89,7 +89,7 @@ label 镜中之人03:
     "关好门，从外接的楼梯上翻下去，压下去的生锈贴片在手掌上扎的麻，同落地的脚给了他清醒。"
     "跑起来，顺着光的眼睛逐渐适应，看清楚了无处可归的拾荒者，看清楚了空无一人的街道。"
     "缄默的身边有着一位成年男子，线索联系起来，林意识到了他是谁。"
-    scene weiwan with fade
+    scene  with fade
     "追了上去，声音没有被隐藏起来，男人抓住了缄默的手也奔跑了起来，转入小小的过道之中，距离在一点点地拉近。"
     "直到，男人带着缄默，停在了一面镜子面前。"
     "那是被丢弃在垃圾中的镜子，那是破碎了的镜子，那是肮脏的镜子，任谁都不会用它来观看自我，可他需要这个，他唯一能够仰仗的事物，伸出了自己的手。"
