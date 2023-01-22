@@ -2,6 +2,7 @@ label 镜中之人04:
     $ gui.accent_menu_background = "gui/横置game1.png"
     $ gui.rebuild()
     scene zhensuo with fade
+    play music avg_warm
     show lin at right with dissolve
     "吃过饭后，林带着人前往医所。"
     "这是蝶的定期检查，是与医生约定好的事情。"

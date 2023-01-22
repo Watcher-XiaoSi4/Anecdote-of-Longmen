@@ -1,6 +1,8 @@
 label 人偶师01:
     $ gui.accent_menu_background = "gui/横置game2.png"
     $ gui.rebuild()
+    $ Character_lin = True
+    $ Character_gu = True
     scene weiwan with fade
     "林终于醒来，看到白色的天花板，他平躺在病床上。"
     "单独的房间中，拉开了窗纱将阳光邀请进来，让放在窗沿的花有些亮眼。"
@@ -19,6 +21,8 @@ label 人偶师01:
     "他没有喊出来，但门打开，是熟悉的面庞，以不敢相信的震惊，冲了过来。"
     "一只手搂住了他空虚的腰，一只手握住了血的掌。"
     u "“林，你终于醒过来了！”"
+    $ Character_lin = True
+    show lin
     l "“是的，我醒过来了，蝶。”他被蝶重新扶到床上，看见了跟在后面的缄默"
     l "“我昏迷了多久？”"
     d "“两天，我还以为你醒不过来了。”"

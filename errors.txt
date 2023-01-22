@@ -2,32 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 111: end of line expected.
-(Perhaps you left out a " at the end of the first line.)
-    """
-        ""
-          ^
-    
-        “你叫什么名字？”
-    
-        “安特-博古。”
-    
-        “不！你叫做林。”
-    
-        “不要。”
-    
-        “嘶，嘶嘶嘶~”
-    
-        “你叫什么名字。”
-    
-        “安特……”
-    
-        “嘶，嘶嘶嘶~”
-    
-        “你叫什么名字？”
-        
-        “林。”
-        """
+File "game/script/镜中之人06.rpy", line 843: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    play music avg_warm
+    ^
 
 Ren'Py Version: Ren'Py 8.0.3.22090809
-Mon Jan 16 15:37:40 2023
+Sun Jan 22 15:41:38 2023

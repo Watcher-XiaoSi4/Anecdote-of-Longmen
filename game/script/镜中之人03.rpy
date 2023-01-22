@@ -1,7 +1,7 @@
 label 镜中之人03:
     $ gui.accent_menu_background = "gui/横置game1.png"
     $ gui.rebuild()
-    scene  with fade
+    scene weishengjian with fade
     show die at left with dissolve 
     show jian at right with dissolve
     d "“不许偷看！”"
@@ -49,6 +49,9 @@ label 镜中之人03:
     l "“咳，咳咳咳！”"
     "林咳嗽了几下，没有说话。"
     "水再次打开，冲在蝶的身上，一点点，一块块，很快便冲洗干净。"
+    hide die with dissolve
+    hide jian with dissolve
+    show diejian with dissolve
     "而当缄默清理浴花的时候，蝶瘫软下来靠在了她的身上。"
     "缄默疑惑地看着她，努力支撑的眼神对在一起，她似乎了解了什么。"
     d "“缄默，我们,改天,一起去,买衣服吧！”"
@@ -61,11 +64,11 @@ label 镜中之人03:
     "缄默歪了下头，表示不理解。"
     d "“红色的是血。”"
     "可她仍然疑惑，伸出了手指，将血沾染，被稀释了的血，带着血的猩红色味道，铁锈的味道，伸出舌头舔舐，是咸涩。"
-    d "“第一次见到血吗？”"
+    d "“你第一次见到血吗？”"
     "蝶看着缄默的神情，问题的关键所在，似乎是："
     d "“你，无法理解红色吗？”"
     scene shuangrenchuangye with fade
-    play music "<from 0 to 28>sys_ccs0.mp3"
+    play music "<from 5 to 28>audio/sys_ccs0.mp3"
     "沉寂的夜晚突然发出了响声，吱呀呀，林的警觉让他醒来。"
     "昏黑的屋子，在月透过窗帘的光之下，勉强看得清楚，勉强听见，持续的水流声，为所有的声音蒙上一层无法轻易透过的纱。"
     "但他依然听得见，有什么声音，渐渐地远去，渐渐地消失，消失在了黑夜之中。"
@@ -83,20 +86,26 @@ label 镜中之人03:
         "关上门":
             jump 镜中之人04
     scene pinminye with fade
+    play music "<from 17 to 28>audio/sys_ccs0.mp3"
     "他推开门，吱呀呀的声音令他感到一丝的害怕，害怕声音的结束，害怕突然地出现什么。"
     "冷风冲着他，睁开眼后，是无人的小道，向着一方看去，是比夜还漆黑的角落。"
     "向着另一方看去，是寂寥的灯光，在不远的路口处，可他抓到了，那个小小的影子。"
     "关好门，从外接的楼梯上翻下去，压下去的生锈贴片在手掌上扎的麻，同落地的脚给了他清醒。"
     "跑起来，顺着光的眼睛逐渐适应，看清楚了无处可归的拾荒者，看清楚了空无一人的街道。"
     "缄默的身边有着一位成年男子，线索联系起来，林意识到了他是谁。"
-    scene  with fade
+    scene huanmeng with fade
+    show ou at right with fade
     "追了上去，声音没有被隐藏起来，男人抓住了缄默的手也奔跑了起来，转入小小的过道之中，距离在一点点地拉近。"
+    hide ou with fade
+    show ou with fade
     "直到，男人带着缄默，停在了一面镜子面前。"
     "那是被丢弃在垃圾中的镜子，那是破碎了的镜子，那是肮脏的镜子，任谁都不会用它来观看自我，可他需要这个，他唯一能够仰仗的事物，伸出了自己的手。"
     "林透过昏黄的灯泡，看到男人的手进入了镜子，一瞬间，所有的疑问都被解决，被层层看管的秘密，通过镜子被偷走。"
     "无法抓到的犯人，通过镜子溜走，他是能力者，他是感染者。"
+    hide ou with fade
     "peng!"
     show lin at right with dissolve
+    show ou with dissolve
     l "“你要就这样一直逃下去吗？”"
     "林掏出了手枪，向着天上开一枪，又瞄准那面镜子。"
     "男人转过头，这是他们第一次对视，冷默与怒斥交错在一起，让所有的动作停滞下来。"
@@ -122,9 +131,10 @@ label 镜中之人03:
     "男人松开了手，眼睛中却尽是充满了悲伤，缄默在他的注视之下，一点点地走向了林。"
     hide lin with dissolve
     hide jian with dissolve
+    scene hei with fade
     "灯泡在这个时候灭掉，黑暗席卷了所有人，林举着枪，没有轻举妄动。"
     "只有脚步的声音响亮了起来，然后突然地停止，镜子破碎的声音也随之而来，咔地一下，便只剩下白噪。"
-    show lin1 with dissolve
+    show linjian with dissolve
     "林碰到了一双手，小一点的，细腻的，柔软的。"
     l "“回去吧！”"
     "他平静地说着，将那双手紧紧地握住。"
@@ -132,7 +142,8 @@ label 镜中之人03:
     "她不语，她无法语。到底是他松开了她，还是她选择了自己。"
     "林不清楚，他无权替别人做出选择，也无法深切地体会到他人的感受，这个早早成长起来的孩子。"
     "你到底在经历着什么？"
-    scene weiwan with fade
+    scene shuangrenchuangchen with fade
+    play music avg_warm
     show lin at left with dissolve
     show die with dissolve
     show jian at right with dissolve
@@ -159,6 +170,7 @@ label 镜中之人03:
     "要逃离的想法，在心中慢慢地孕育而生。"
     "他走到街道上，算是清晨吧，人还不是特别多，向着不远处的一栋楼看去，也是空空如也，走向常去的早餐摊，白气慢慢地升上去。"
     show lin with dissolve
+    show ou at right with dissolve
     l "“阿姨，老样子，不过今天多一份带走。”他对店家说。"
     a "“哦！今天有谁来了吗？”她问。"
     l "“朋友家的孩子，寄宿在这里。”"
@@ -171,6 +183,7 @@ label 镜中之人03:
     a "“昨天，又不知道‘他们’发了什么疯。”"
     l "“您也得小心。”林看着她略微破烂的方桌说。"
     a "“我可不怕他们！”她举起自己的夹子说。"
+    show ou at left with dissolve
     "忽然，一个人坐到了林的身边。"
     "他认出了他，是一起工作的同事，是被留下来观察情况的人，叫了两份油条和豆浆带走后，便将视线转移了过来。"
     u "“你住在这附近？”"
@@ -197,6 +210,7 @@ label 镜中之人03:
     "四人份的食物被装好，分给了两人，林想看看那家店有没有开，便随着他一同走向了那个位置。"
     scene jiedao7 with fade
     show lin at right with dissolve
+    show ou with dissolve
     l "“对了，你和谁一起？”他问。"
     u "“鬼姐。”他回答。"
     show xing at left with dissolve

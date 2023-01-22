@@ -1,7 +1,7 @@
 label 镜中之人01:
     $ gui.accent_menu_background = "gui/横置game1.png"
     $ gui.rebuild()
-    play music avg_storyendjp
+    play music avg_warm
     scene jiedao with fade
     "林和她在空无一人的街上走着。"
     show lin at left with dissolve
@@ -50,7 +50,7 @@ label 镜中之人01:
     c "“龙门欢迎你们。”她说出这句话，在心中没有任何的份量。"
     c "“先挂了！有什么事情，迅速汇报过来。”电话被挂断。"
     "林松开右手，那上面尽是铁锈，在慌张与舒怡之中，不适感被忽略了，重新打开门，蝶站在了她的面前，双手叉腰，挡住了他的去路。"
-    scene  with fade
+    scene louti with fade
     show lin at left with dissolve
     show die at right with dissolve
     play music sys_penguinlogistics
@@ -109,7 +109,7 @@ label 镜中之人01:
     d "“正常人，不都该接下来吗？”她把筷子放下来。"
     l "“我不是接了吗？”他说着。"
     d "“你怎么接的啊！”"
-    l "“用筷子！”他甚至还用筷子演示一遍。"
+    l "“用筷子！”他甚至还用筷子再演示一遍。"
     d "“啊！啊啊啊！！！”耿直的回答，让她有些抓狂。"
     u "“咳咳咳！”女孩的声音让紧张的局势缓解，她默默地吃着，看着他们的表演，有些害怕，有些忐忑。"
     "不过她看到了不同，不同于她过去所见到的一切，注意到的时候，呼吸早就停滞了很久，不自觉地露出了笑容，是咳嗽，挤出了眼泪。"
