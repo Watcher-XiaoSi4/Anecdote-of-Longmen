@@ -42,7 +42,7 @@ image ou = im.FactorScale("images/new-human/character/人偶.png",0.75)
 #特殊图片，有1为水平翻转
 
 image lin1 = im.FactorScale("images/new-human/special-character/林1.png",0.75)
-image lincan = im.FactorScale("images/new-human/special-character/林残.png",0.75)
+# image lincan = im.FactorScale("images/new-human/special-character/林残.png",0.75)
 image linjian = im.FactorScale("images/new-human/special-character/林与缄默.png",0.75)
 image diejian = im.FactorScale("images/new-human/special-character/蝶与缄默.png",0.75)
 image diejian1 = im.FactorScale("images/new-human/special-character/蝶与缄默1.png",0.75)
@@ -52,7 +52,7 @@ image lincangu = im.FactorScale("images/new-human/special-character/林残谷.pn
 image guigu = im.FactorScale("images/new-human/special-character/星熊与谷涸.png",0.75)
 image weimao = im.FactorScale("images/new-human//special-character/未堰与猫.png",0.75)
 image xing2 = im.FactorScale("images/new-human//special-character/星熊2.png",0.6)
-image xingu = im.FactorScale("images/new-human//special-character/新谷.png",0.6)
+# image xingu = im.FactorScale("images/new-human//special-character/新谷.png",0.6)
 image guran1 = im.FactorScale("images/new-human//special-character/谷染1.png",0.75)
 image guran2 = im.FactorScale("images/new-human//special-character/谷染2.png",0.75)
 
